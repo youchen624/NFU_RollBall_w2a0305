@@ -1,0 +1,9 @@
+@begin
+# w2a1 2026 0305
+    movable ball as player with camera
+
+# w3a1 2026 0312
+    targetting player AI enemy
+
+# w3a1 2026 0319
+    add music and sound
